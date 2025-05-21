@@ -47,7 +47,7 @@ Then you can run `./clipserva` or move it to a directory in your PATH.
 
 ## 🗃️ Download (Alternative)
 
-[Latest build for Windows]()
+[Latest build for Windows](https://github.com/SleepyStew/ClipServa/releases/)
 
 ## 🛠️ Usage
 
