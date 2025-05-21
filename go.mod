@@ -1,4 +1,4 @@
-module ClipServa
+module github.com/SleepyStew/clipserva
 
 go 1.24
 
